@@ -1,6 +1,6 @@
 [submodule "mod/tidypics"]
 	path = mod/tidypics
-	url = git@github.com:cash/Tidypics.git
+	url = git@github.com:molequedeideias/Tidypics.git
 [submodule "mod/login_as"]
 	path = mod/login_as
 	url = git@github.com:cash/Login-As.git
