@@ -1,42 +1,42 @@
 [submodule "mod/tidypics"]
 	path = mod/tidypics
-	url = git@github.com:cash/Tidypics.git
+	url = git@github.com:molquedeideias/Tidypics.git
 [submodule "mod/login_as"]
 	path = mod/login_as
-	url = git@github.com:cash/Login-As.git
+	url = git@github.com:molequedeideias/Login-As.git
 [submodule "mod/embedvideo"]
 	path = mod/embedvideo
-	url = git@github.com:cash/embedvideo.git
+	url = git@github.com:molequedeideias/embedvideo.git
 [submodule "mod/polls"]
 	path = mod/polls
-	url = git@github.com:kevinjardine/polls.git
+	url = git@github.com:molequedeideias/polls.git
 [submodule "mod/group_custom_layout"]
 	path = mod/group_custom_layout
-	url = git@github.com:ColdTrick/group_custom_layout.git
+	url = git@github.com:molequedeideias/group_custom_layout.git
 [submodule "mod/friend_request"]
 	path = mod/friend_request
-	url = git@github.com:ColdTrick/friend_request.git
+	url = git@github.com:molequedeideias/friend_request.git
 [submodule "mod/ufcoe_tinymce"]
 	path = mod/ufcoe_tinymce
-	url = git@github.com:mrclay/Elgg-ufcoe_tinymce.git
+	url = git@github.com:molequedeideias/Elgg-ufcoe_tinymce.git
 [submodule "mod/maintenance"]
 	path = mod/maintenance
-	url = git@github.com:ColdTrick/maintenance.git
+	url = git@github.com:molequedeideias/maintenance.git
 [submodule "mod/file_tools"]
 	path = mod/file_tools
-	url = git@github.com:ColdTrick/file_tools.git
+	url = git@github.com:molequedeideias/file_tools.git
 [submodule "mod/profile_manager"]
 	path = mod/profile_manager
-	url = git@github.com:ColdTrick/profile_manager.git
+	url = git@github.com:molequedeideias/profile_manager.git
 [submodule "mod/phpmailer"]
 	path = mod/phpmailer
-	url = git@github.com:cash/elgg-phpmailer.git
+	url = git@github.com:molequedeideias/elgg-phpmailer.git
 [submodule "mod/event_calendar"]
 	path = mod/event_calendar
-	url = git@github.com:cash/Elgg-Event-Calendar.git
+	url = git@github.com:molequedeideias/Elgg-Event-Calendar.git
 [submodule "mod/analytics"]
 	path = mod/analytics
-	url = git@github.com:ColdTrick/analytics.git
+	url = git@github.com:molequedeideias/analytics.git
 [submodule "mod/au_longtext_video_filter"]
 	path = mod/au_longtext_video_filter
 	url = git@github.com:ericvieira/au_longtext_video_filter.git
