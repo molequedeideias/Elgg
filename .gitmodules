@@ -46,3 +46,6 @@
 [submodule "mod/bottom_bar"]
 	path = mod/bottom_bar
 	url = git@github.com:ericvieira/bottom_bar.git
+[submodule "mod/medias"]
+	path = mod/medias
+	url = git@github.com:molequedeideias/noelab_media_embedly.git
