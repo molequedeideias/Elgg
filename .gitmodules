@@ -37,9 +37,6 @@
 [submodule "mod/analytics"]
 	path = mod/analytics
 	url = git@github.com:molequedeideias/analytics.git
-[submodule "mod/au_longtext_video_filter"]
-	path = mod/au_longtext_video_filter
-	url = git@github.com:ericvieira/au_longtext_video_filter.git
 [submodule "mod/siteaccess"]
 	path = mod/siteaccess
 	url = git@github.com:ericvieira/siteaccess.git
